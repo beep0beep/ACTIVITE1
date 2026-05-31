@@ -47,5 +47,3 @@ flutter run
 ```bash
 flutter test
 ```
-# ACTIVITE1
-# ACTIVITE1
